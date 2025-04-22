@@ -1,0 +1,7 @@
+C:\Users\tais.clopes\source\repos\mias\mias\bin\Debug\mias.exe.config
+C:\Users\tais.clopes\source\repos\mias\mias\bin\Debug\mias.exe
+C:\Users\tais.clopes\source\repos\mias\mias\bin\Debug\mias.pdb
+C:\Users\tais.clopes\source\repos\mias\mias\obj\Debug\array.csproj.AssemblyReference.cache
+C:\Users\tais.clopes\source\repos\mias\mias\obj\Debug\array.csproj.CoreCompileInputs.cache
+C:\Users\tais.clopes\source\repos\mias\mias\obj\Debug\mias.exe
+C:\Users\tais.clopes\source\repos\mias\mias\obj\Debug\mias.pdb
