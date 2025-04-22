@@ -1,0 +1,7 @@
+C:\Users\tais.clopes\source\repos\numero_aleatorio\numero_aleatorio\bin\Debug\numero_aleatorio.exe.config
+C:\Users\tais.clopes\source\repos\numero_aleatorio\numero_aleatorio\bin\Debug\numero_aleatorio.exe
+C:\Users\tais.clopes\source\repos\numero_aleatorio\numero_aleatorio\bin\Debug\numero_aleatorio.pdb
+C:\Users\tais.clopes\source\repos\numero_aleatorio\numero_aleatorio\obj\Debug\jogo_RPG.csproj.AssemblyReference.cache
+C:\Users\tais.clopes\source\repos\numero_aleatorio\numero_aleatorio\obj\Debug\jogo_RPG.csproj.CoreCompileInputs.cache
+C:\Users\tais.clopes\source\repos\numero_aleatorio\numero_aleatorio\obj\Debug\numero_aleatorio.exe
+C:\Users\tais.clopes\source\repos\numero_aleatorio\numero_aleatorio\obj\Debug\numero_aleatorio.pdb
