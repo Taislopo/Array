@@ -20,25 +20,16 @@ namespace Pokedex
 
             Console.WriteLine(" POKEMONS DA MINHA POKEDEX");
 
-            Console.Write("NOME DO POKEMOM" );
-            Console.Write("\t\t");
-            Console.Write("TIPO DE ELEMENTO" );
-            Console.Write("\t");
-            Console.Write("TAMANHO DO POKEMOM") ;
-            Console.Write("\t");
-            Console.WriteLine("PESO DO POKEMOM");
-
-
             for (int i = 0; i < pokemom.Length; i++)
             {
-               
-                Console.Write(pokemom[i]);
+                Console.Write("ID: " + (i + 1));
+                Console.Write("Nome: "+ pokemom[i]);
                 Console.Write("\t\t");
-                Console.Write(tipo[i]);
+                Console.Write("Tipo: " + tipo[i]);
                 Console.Write("\t\t\t");
-                Console.Write(tamanho[i]);
+                Console.Write("Altura: " + tamanho[i]);
                 Console.Write("\t\t\t\t");
-                Console.WriteLine(peso[i]);
+                Console.WriteLine("Peso: " + peso[i]);
 
 
 
